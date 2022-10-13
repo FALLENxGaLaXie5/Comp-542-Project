@@ -1,8 +1,8 @@
-Latitude,Longitude,Name
--123.07,38.32,Bodega
--117.19,33.44,Fallback
--120.88,37.24,Merced
--122.61,40.65,Redding
--119.88,34.41,Santa Barbara
--117.14,36.6,Stovepipe Wells
--119.82,37.76,Yosemite
+Latitude,Longitude,Name,LocationIndex
+-123.07,38.32,Bodega,1
+-117.19,33.44,Fallback,2
+-120.88,37.24,Merced,3
+-122.61,40.65,Redding,4
+-119.88,34.41,Santa Barbara,5
+-117.14,36.6,Stovepipe Wells,6
+-119.82,37.76,Yosemite,7
